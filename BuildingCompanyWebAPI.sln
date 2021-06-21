@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingCompanyWebAPI", "BuildingCompanyWebAPI\BuildingCompanyWebAPI.csproj", "{0DA2AA70-EA5B-4646-917D-3308860F71C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildingCompanyWebAPI", "BuildingCompanyWebAPI\BuildingCompanyWebAPI.csproj", "{0DA2AA70-EA5B-4646-917D-3308860F71C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilidingCompany.Entities", "BuilidingCompany.Entities\BuilidingCompany.Entities.csproj", "{6E2FEE31-E130-48E4-9F6E-CDF3302A0948}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0DA2AA70-EA5B-4646-917D-3308860F71C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DA2AA70-EA5B-4646-917D-3308860F71C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DA2AA70-EA5B-4646-917D-3308860F71C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2FEE31-E130-48E4-9F6E-CDF3302A0948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2FEE31-E130-48E4-9F6E-CDF3302A0948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2FEE31-E130-48E4-9F6E-CDF3302A0948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2FEE31-E130-48E4-9F6E-CDF3302A0948}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
